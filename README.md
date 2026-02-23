@@ -1,5 +1,5 @@
 # Bet4live
- Bet4free's API to handle live value like score, odd, etc
+ Bet4free's API to handle live values like score, odd, etc
 
 ### The API is divided into 2 parts:
 1. Score (Not available yet) -> /score
